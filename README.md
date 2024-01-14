@@ -26,7 +26,7 @@ pip install pandas matplotlib
 ### Usage
 - Clone the repository or download the scripts and dataset.
 - Place your dataset CSV file in the project directory with the name your_dataset.csv.
-- 
+  
 ### Run the Python script:
 ```bash
 python analyze_cars.py
